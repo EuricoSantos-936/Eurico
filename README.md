@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bizhead
+- 👋 Hi, I’m Eurico Santos from Portugal
 - 👀 I’m interested in Front-end developing
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Front-end Projects
